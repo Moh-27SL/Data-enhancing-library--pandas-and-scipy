@@ -2,7 +2,7 @@ Data info: Data shape: (768, 9)
 
 RangeIndex: 768 entries, 0 to 767
 Data columns (total 9 columns):
-#   Column                    Non-Null Count  Dtype
+   Column                    Non-Null Count  Dtype
 ---  ------                    --------------  -----
 0   Pregnancies               768 non-null    int64
 1   Glucose                   768 non-null    int64
